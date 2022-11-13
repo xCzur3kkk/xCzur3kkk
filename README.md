@@ -1,0 +1,1 @@
+- 👋 Hi, I’m xCzur3k, I'm junior javascript developer
